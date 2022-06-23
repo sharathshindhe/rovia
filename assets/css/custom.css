@@ -1,0 +1,22 @@
+/* Add here all your css styles (customizations) */
+
+.button-sq {
+    height:46px;
+    width:46px;
+}
+
+.info-v5-3:hover .info-v5-3__info {
+    color: rgba(255, 255, 255, 0.8);
+    background-color: #4025d0 !important;
+}
+@media (min-width: 768px) {
+    .g-sticky-block--md {
+        position: -webkit-sticky; /* Safari */
+        position: sticky;
+        top: 0;
+    }
+}
+
+#nav-1-1-accordion-primary-ver.tab-content {
+    height: 235px;
+}
